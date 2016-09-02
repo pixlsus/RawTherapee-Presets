@@ -1,0 +1,14 @@
+[Version]
+AppVersion=4.2.1148
+Version=326
+
+[Exposure]
+CurveMode=FilmLike
+Curve=1;0;0;1;1;
+
+[RGB Curves]
+LumaMode=false
+rCurve=1;0;0;0.231373;0.211765;0.792157;0.823529;1;1;
+gCurve=1;0;0;0.105882;0.082353;0.768627;0.811765;1;1;
+bCurve=1;0;0;0.137255;0.098039;0.803922;0.890196;1;1;
+
